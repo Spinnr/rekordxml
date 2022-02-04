@@ -1,0 +1,33 @@
+{
+  "name": "rekordxml",
+  "version": "0.0.1",
+  "description": "Use JS to manage a Rekordbox XML file (edit and/or convert)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBrenny/rekordxml.git"
+  },
+  "keywords": [
+    "rekordbox",
+    "pioneer",
+    "dj",
+    "cdj",
+    "xdj",
+    "music",
+    "playlist",
+    "disc",
+    "jockey"
+  ],
+  "author": "TheBrenny <iam@justbrenny.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBrenny/rekordxml/issues"
+  },
+  "homepage": "https://github.com/TheBrenny/rekordxml#readme",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
+}
