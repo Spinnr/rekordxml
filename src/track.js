@@ -4,6 +4,22 @@ const CONSTANTS = require("./constants");
 // 0 = 0b000 = normal
 // 4 = 0b100 = loop
 
+/*
+Colours I've used:
+0x28e214
+0x305aff
+0x30d26e
+0x3ceb50
+0x45acdb
+0x50b4ff
+0x6473ff
+0x7dc13d
+0xc3af4
+0xe0641b
+0xff376f
+0xff8c0
+*/
+
 class Track {
     constructor(id, name, artist) {
         this.trackID = id;
