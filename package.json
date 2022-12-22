@@ -29,5 +29,8 @@
   "homepage": "https://github.com/TheBrenny/rekordxml#readme",
   "dependencies": {
     "xml2js": "^0.4.23"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
